@@ -1,0 +1,1 @@
+#define CALLIOPE_MINIGAME 1
